@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <title>index</title>
+        <title>index stiens gate is best</title>
         <link href='http://fonts.googleapis.com/css?family=Oleo+Script' rel='stylesheet' type='text/css'>
         <style type="text/css">
 
